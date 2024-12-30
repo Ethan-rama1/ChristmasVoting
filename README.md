@@ -38,7 +38,7 @@ Type in the root user's password and then copy the file to your computer. You wi
 
 ## Application
 ### Setup
-To run this app in development mode, you will need to have expo installed. This can be done from the frontend directory in the project and running ```npm install```. 
+To run this app in development mode, you will need to have the react libraries/modules installed. This can be done from the frontend directory in the project and running ```npm install```. 
 
 ### Running the app
 To now run the app, make sure you are in the frontend directory and run the following command:\
